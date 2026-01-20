@@ -6,6 +6,7 @@
 
 
 python3 -m venv .venv
+
 source .venv/bin/activate
 
 6. Create and install req.txt
