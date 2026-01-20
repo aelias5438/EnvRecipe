@@ -10,5 +10,7 @@ python3 -m venv .venv
 source .venv/bin/activate
 
 6.Install extensions
+
 7. Create and install req.txt
-8. Begin coding
+   
+9. Begin coding
